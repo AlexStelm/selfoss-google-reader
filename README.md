@@ -1,7 +1,7 @@
 selfoss-google-reader
 =====================
 
-selfoss Google Reader theme
+selfoss Google Reader theme, desktop only
 
 
 INSTALLATION
